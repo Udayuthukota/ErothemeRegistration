@@ -1,0 +1,29 @@
+/* .example-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .example-container > * {
+    width: 100%;
+  } */
+  .my-form{
+    min-width: 150px;
+    max-width: 500px;
+    width: 50%;
+
+  }
+ 
+   
+  .full-width {
+    width: 100%;
+  }
+  .password
+  {
+    color: rgb(247, 18, 18);
+    font-size: 0.8rem;
+  }
+  .body{
+    padding-top:5%; 
+    padding-left: 20rem;
+    padding-right: 20rem;
+  }
